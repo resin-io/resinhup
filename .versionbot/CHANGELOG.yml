@@ -1,4 +1,16 @@
 - commits:
+    - subject: 'debug: extra debugging flags for hooks and things'
+      hash: 7a572725e71da5bd09d771529b59529a83173f97
+      body: ''
+      footer:
+        Signed-off-by: Matthew McGinn <matthew@balena.io>
+        signed-off-by: Matthew McGinn <matthew@balena.io>
+        Change-type: patch
+        change-type: patch
+      author: Matthew McGinn
+  version: 2.14.13
+  date: 2021-04-09T17:16:35.805Z
+- commits:
     - subject: 'ESR: properly grab the meta-balena version from /etc/os-release'
       hash: 9e5d1f25e475e1999cea522e14ea0801299dffa2
       body: ''
